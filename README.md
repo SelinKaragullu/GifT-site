@@ -4,7 +4,7 @@ Generating gift electronically
 
 <h2> External usage </h2>
 
-HTML, CSS, JavaScript & React used
+HTML & CSS used
 
 <h2> Gif </h2>
 
